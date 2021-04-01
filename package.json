@@ -1,0 +1,17 @@
+{
+  "name": "js_doc_better_docs_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [],
+  "author": "Thomas G. aka Drozerah <drozerah@gmail.com> (https://github.com/Drozerah)",
+  "license": "ISC",
+  "devDependencies": {
+    "better-docs": "^2.3.2",
+    "jsdoc": "^3.6.6",
+    "jsdoc-mermaid": "^1.0.0"
+  }
+}
